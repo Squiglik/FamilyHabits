@@ -1,0 +1,19 @@
+# Сборка
+.gradle/
+build/
+*.apk
+*.aab
+
+# Локальные настройки (путь к SDK у каждого свой)
+local.properties
+
+# Настройки IDE
+.idea/
+*.iml
+.navigation/
+captures/
+
+# Ключи (никогда не заливайте их!)
+*.keystore
+*.jks
+key.properties
